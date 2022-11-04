@@ -10,7 +10,8 @@ st.title("👨‍🎨 DALL·E 2 GENERATOR")
 message = st.text_input("Type your request for Dall·e in english  |  example: The end of the universe, digital art") 
 st.write("Your request: ", message)
 
-openai.api_key = config["key"]
+#openai.api_key = config["key"]
+openai.api_key = key
 
 response = openai.Image.create(
   prompt=f"{message} " ,
