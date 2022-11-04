@@ -11,6 +11,7 @@ message = st.text_input("Type your request for Dall·e in english  |  example: T
 st.write("Your request: ", message)
 
 #openai.api_key = config["key"]
+key = 0
 openai.api_key = key
 
 response = openai.Image.create(
