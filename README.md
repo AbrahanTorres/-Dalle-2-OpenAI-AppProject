@@ -1,5 +1,5 @@
 
-[![Streamlit App](  )
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abrahantorres--dalle-2-openai-appproject-dalle-h668si.streamlit.app/)
 
 This app use the OpenAI API to create images through a requests.
 
@@ -7,7 +7,7 @@ This app use the OpenAI API to create images through a requests.
 
 The more detailed the description, the more likely you are to get the result that you want. 
 
-You can visit on website to check it out:  [![Streamlit App](   )
+You can visit on website to check it out: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abrahantorres--dalle-2-openai-appproject-dalle-h668si.streamlit.app/)
 
 For example, try the next request:
 
