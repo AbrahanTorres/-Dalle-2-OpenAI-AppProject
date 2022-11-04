@@ -1,5 +1,5 @@
 import streamlit as st
-from config import *
+#from config import *
 import openai 
 import webbrowser
 
